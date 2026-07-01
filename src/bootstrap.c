@@ -29,7 +29,7 @@
 #include "windows.h"
 
 /* URL that we get the JSON encoded nodes list from. */
-#define NODES_LIST_URL "https://nodes.tox.chat/json"
+#define NODES_LIST_URL "https://nodes.tox.st/json"
 
 #define DEFAULT_NODES_FILENAME "DHTnodes.json"
 
